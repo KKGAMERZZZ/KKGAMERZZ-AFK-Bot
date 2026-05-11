@@ -8,7 +8,7 @@
   "server": {
     "ip": "KKGAMER.aternos.me:20765",
     "port": 20765,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
